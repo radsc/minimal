@@ -1,6 +1,13 @@
-title: Minimal theme
+title: Radha Sowjanya Chitta
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description:
+  <p align="center">
+    <a href="https://github.com/radhasowjanya">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Machine learning & NLP related problems.
+  <br>
+  </p>
+
+
 theme: jekyll-theme-minimal
